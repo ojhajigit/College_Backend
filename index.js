@@ -13,7 +13,7 @@ var cors = require("cors");
 // );
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://frontend-college-opal.vercel.app",
   credentials: true,
   optionSuccessStatus: 200,
 };
